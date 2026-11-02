@@ -1,0 +1,635 @@
+IssueID,SourceType,SourceID,AccountID,RaisedDate,Description,Severity,Status,RootCauseCategory,DueDate,ResolutionDate
+ISS00001,TradeFailure,TRD100367,ACC5252,2024-01-05,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-02-02,2024-01-29
+ISS00002,TradeFailure,TRD100059,ACC5187,2024-01-09,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2024-02-06,2024-01-19
+ISS00003,AMLFlag,TXN200035,ACC5081,2024-01-09,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-01-30,2024-01-19
+ISS00004,AMLFlag,TXN200072,ACC5102,2024-01-09,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-01-23,2024-01-17
+ISS00005,AMLFlag,TXN200041,ACC5102,2024-01-10,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-01-24,2024-01-18
+ISS00006,TradeFailure,TRD101314,ACC5158,2024-01-11,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2024-01-25,2024-02-02
+ISS00007,AMLFlag,TXN200055,ACC5102,2024-01-11,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-01-25,2024-01-22
+ISS00008,AMLFlag,TXN200087,ACC5102,2024-01-12,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-01-26,2024-01-18
+ISS00009,TradeFailure,TRD101143,ACC5004,2024-01-16,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-02-06,2024-01-26
+ISS00010,TradeFailure,TRD106418,ACC5475,2024-01-16,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2024-01-30,2024-01-30
+ISS00011,AMLFlag,TXN200120,ACC5232,2024-01-17,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-01-31,2024-01-22
+ISS00012,AMLFlag,TXN200122,ACC5153,2024-01-17,Escalated AML alert: LargeTransaction;HighRiskJurisdiction,Critical,Closed,Multiple Rules,2024-01-24,2024-01-26
+ISS00013,AMLFlag,TXN200124,ACC5232,2024-01-17,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-01-31,2024-02-12
+ISS00014,AMLFlag,TXN200129,ACC5232,2024-01-17,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-01-31,2024-01-24
+ISS00015,AMLFlag,TXN200171,ACC5232,2024-01-19,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-02-02,2024-02-05
+ISS00016,TradeFailure,TRD103046,ACC5214,2024-01-22,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-02-12,2024-02-19
+ISS00017,AMLFlag,TXN200164,ACC5374,2024-01-22,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-02-12,2024-01-31
+ISS00018,AMLFlag,TXN200167,ACC5147,2024-01-23,Escalated AML alert: LargeTransaction;HighRiskJurisdiction,Critical,Closed,Multiple Rules,2024-01-30,2024-01-26
+ISS00019,AMLFlag,TXN200216,ACC5216,2024-01-24,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-02-07,2024-02-02
+ISS00020,TradeFailure,TRD105063,ACC5302,2024-01-25,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2024-02-08,2024-02-08
+ISS00021,TradeFailure,TRD102308,ACC5272,2024-01-26,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2024-02-16,2024-03-05
+ISS00022,AMLFlag,TXN200214,ACC5216,2024-01-26,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-02-09,2024-02-06
+ISS00023,TradeFailure,TRD102363,ACC5278,2024-01-29,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-02-19,2024-02-05
+ISS00024,AMLFlag,TXN200235,ACC5216,2024-01-29,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-02-12,2024-02-01
+ISS00025,TradeFailure,TRD100510,ACC5419,2024-01-30,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-02-20,2024-02-09
+ISS00026,TradeFailure,TRD104988,ACC5352,2024-01-30,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2024-02-20,2024-02-13
+ISS00027,AMLFlag,TXN200255,ACC5216,2024-01-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-02-13,2024-02-20
+ISS00028,TradeFailure,TRD109773,ACC5067,2024-01-31,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-02-21,2024-02-07
+ISS00029,AMLFlag,TXN200316,ACC5010,2024-02-05,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-02-26,2024-02-20
+ISS00030,TradeFailure,TRD101753,ACC5029,2024-02-06,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-02-27,2024-03-14
+ISS00031,TradeFailure,TRD109277,ACC5055,2024-02-06,Trade settlement failure: SSI mismatch,Critical,Closed,Data Quality Issue,2024-02-13,2024-02-13
+ISS00032,TradeFailure,TRD107728,ACC5296,2024-02-07,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-03-06,2024-02-19
+ISS00033,AMLFlag,TXN200314,ACC5128,2024-02-07,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-02-28,2024-02-26
+ISS00034,TradeFailure,TRD104231,ACC5345,2024-02-08,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2024-02-29,2024-02-23
+ISS00035,AMLFlag,TXN200335,ACC5453,2024-02-08,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-02-29,2024-03-12
+ISS00036,AMLFlag,TXN200373,ACC5189,2024-02-08,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-02-22,2024-02-26
+ISS00037,TradeFailure,TRD102040,ACC5360,2024-02-12,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2024-03-11,2024-03-07
+ISS00038,AMLFlag,TXN200374,ACC5189,2024-02-12,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-02-26,2024-02-27
+ISS00039,AMLFlag,TXN200381,ACC5189,2024-02-13,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-02-27,2024-02-23
+ISS00040,TradeFailure,TRD100471,ACC5211,2024-02-21,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-03-13,2024-03-04
+ISS00041,TradeFailure,TRD103278,ACC5073,2024-02-22,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-03-14,2024-03-18
+ISS00042,TradeFailure,TRD104939,ACC5194,2024-02-22,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-03-14,2024-03-05
+ISS00043,TradeFailure,TRD107659,ACC5055,2024-02-22,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2024-03-21,2024-03-20
+ISS00044,AMLFlag,TXN200488,ACC5156,2024-02-22,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2024-03-14,2024-03-18
+ISS00045,TradeFailure,TRD102759,ACC5165,2024-02-28,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2024-03-27,2024-03-11
+ISS00046,TradeFailure,TRD104979,ACC5035,2024-03-04,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-03-25,2024-03-18
+ISS00047,TradeFailure,TRD105527,ACC5119,2024-03-04,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-03-25,2024-04-10
+ISS00048,TradeFailure,TRD109480,ACC5465,2024-03-05,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2024-03-19,2024-03-27
+ISS00049,TradeFailure,TRD101614,ACC5048,2024-03-06,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-03-27,2024-03-27
+ISS00050,TradeFailure,TRD109221,ACC5465,2024-03-07,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2024-04-04,2024-03-27
+ISS00051,AMLFlag,TXN200630,ACC5258,2024-03-11,Escalated AML alert: LargeTransaction;HighRiskJurisdiction,Critical,Closed,Multiple Rules,2024-03-18,2024-03-14
+ISS00052,TradeFailure,TRD100976,ACC5062,2024-03-12,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-04-02,2024-03-22
+ISS00053,AMLFlag,TXN200637,ACC5263,2024-03-12,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-04-02,2024-03-27
+ISS00054,TradeFailure,TRD107516,ACC5158,2024-03-14,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-04-11,2024-04-26
+ISS00055,TradeFailure,TRD107162,ACC5393,2024-03-15,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2024-04-05,2024-03-27
+ISS00056,AMLFlag,TXN200687,ACC5092,2024-03-15,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-04-05,2024-03-25
+ISS00057,TradeFailure,TRD107683,ACC5166,2024-03-19,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-04-09,2024-04-16
+ISS00058,TradeFailure,TRD100875,ACC5142,2024-03-20,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2024-04-17,2024-04-08
+ISS00059,TradeFailure,TRD106129,ACC5063,2024-03-22,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-04-12,2024-04-02
+ISS00060,TradeFailure,TRD109987,ACC5409,2024-03-27,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2024-04-24,2024-04-18
+ISS00061,AMLFlag,TXN200850,ACC5433,2024-04-03,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-04-24,2024-04-17
+ISS00062,TradeFailure,TRD106148,ACC5389,2024-04-04,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-05-02,2024-04-26
+ISS00063,TradeFailure,TRD106701,ACC5035,2024-04-04,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-05-02,2024-05-02
+ISS00064,TradeFailure,TRD109055,ACC5174,2024-04-08,Trade settlement failure: SSI mismatch,Critical,Closed,Data Quality Issue,2024-04-15,2024-04-15
+ISS00065,TradeFailure,TRD107291,ACC5451,2024-04-15,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2024-05-06,2024-05-06
+ISS00066,TradeFailure,TRD109071,ACC5465,2024-04-18,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2024-05-02,2024-04-30
+ISS00067,TradeFailure,TRD109432,ACC5238,2024-04-25,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-05-16,2024-05-01
+ISS00068,AMLFlag,TXN201134,ACC5500,2024-04-29,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-05-13,2024-05-09
+ISS00069,TradeFailure,TRD109759,ACC5469,2024-05-01,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-05-29,2024-05-13
+ISS00070,AMLFlag,TXN201168,ACC5500,2024-05-01,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-05-15,2024-05-08
+ISS00071,AMLFlag,TXN201190,ACC5500,2024-05-01,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-05-15,2024-05-08
+ISS00072,TradeFailure,TRD105094,ACC5480,2024-05-02,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2024-05-16,2024-05-16
+ISS00073,TradeFailure,TRD105989,ACC5062,2024-05-02,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2024-05-30,2024-05-10
+ISS00074,TradeFailure,TRD106090,ACC5452,2024-05-02,Trade settlement failure: System outage,High,Closed,System/Automation Gap,2024-05-16,2024-05-13
+ISS00075,TradeFailure,TRD106638,ACC5223,2024-05-02,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-05-23,2024-05-17
+ISS00076,AMLFlag,TXN201204,ACC5309,2024-05-02,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-05-23,2024-05-28
+ISS00077,TradeFailure,TRD106118,ACC5009,2024-05-03,Trade settlement failure: Insufficient securities,Critical,Closed,Third-Party Failure,2024-05-10,2024-05-09
+ISS00078,AMLFlag,TXN201185,ACC5500,2024-05-03,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-05-17,2024-05-17
+ISS00079,AMLFlag,TXN201191,ACC5174,2024-05-03,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-05-24,2024-05-21
+ISS00080,AMLFlag,TXN201215,ACC5196,2024-05-03,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-05-24,2024-06-13
+ISS00081,TradeFailure,TRD108940,ACC5163,2024-05-07,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-06-04,2024-05-23
+ISS00082,TradeFailure,TRD109837,ACC5371,2024-05-07,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2024-05-28,2024-07-03
+ISS00083,TradeFailure,TRD100498,ACC5412,2024-05-08,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2024-06-05,2024-05-23
+ISS00084,TradeFailure,TRD104157,ACC5322,2024-05-08,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-05-29,2024-06-03
+ISS00085,TradeFailure,TRD105518,ACC5277,2024-05-09,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2024-06-06,2024-06-27
+ISS00086,TradeFailure,TRD102211,ACC5237,2024-05-10,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-05-31,2024-05-24
+ISS00087,TradeFailure,TRD102969,ACC5469,2024-05-17,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-06-07,2024-06-03
+ISS00088,TradeFailure,TRD109565,ACC5436,2024-05-21,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2024-06-04,2024-05-27
+ISS00089,TradeFailure,TRD103070,ACC5287,2024-05-22,Trade settlement failure: Late instruction,High,Closed,Manual Process Error,2024-06-05,2024-07-30
+ISS00090,TradeFailure,TRD107917,ACC5430,2024-05-27,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-06-24,2024-06-14
+ISS00091,TradeFailure,TRD103374,ACC5360,2024-05-28,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-06-25,2024-07-15
+ISS00092,AMLFlag,TXN201469,ACC5403,2024-06-03,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-06-24,2024-06-13
+ISS00093,AMLFlag,TXN201535,ACC5080,2024-06-06,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-06-27,2024-06-13
+ISS00094,AMLFlag,TXN201556,ACC5092,2024-06-12,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-07-03,2024-06-24
+ISS00095,TradeFailure,TRD101944,ACC5324,2024-06-13,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-07-04,2024-07-02
+ISS00096,TradeFailure,TRD106449,ACC5375,2024-06-13,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2024-07-11,2024-07-08
+ISS00097,TradeFailure,TRD102101,ACC5373,2024-06-14,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2024-07-05,2024-06-26
+ISS00098,AMLFlag,TXN201661,ACC5179,2024-06-19,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-07-10,2024-07-02
+ISS00099,TradeFailure,TRD105698,ACC5302,2024-06-20,Trade settlement failure: Insufficient securities,Critical,Closed,Third-Party Failure,2024-06-27,2024-06-26
+ISS00100,TradeFailure,TRD103464,ACC5311,2024-06-21,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-07-19,2024-07-05
+ISS00101,TradeFailure,TRD106414,ACC5483,2024-06-21,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-07-12,2024-07-04
+ISS00102,AMLFlag,TXN201683,ACC5158,2024-06-21,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-07-12,2024-07-01
+ISS00103,TradeFailure,TRD100608,ACC5163,2024-06-25,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-07-16,2024-07-19
+ISS00104,TradeFailure,TRD107068,ACC5240,2024-06-28,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-07-19,2024-07-08
+ISS00105,TradeFailure,TRD107011,ACC5416,2024-07-01,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-07-22,2024-07-15
+ISS00106,TradeFailure,TRD108543,ACC5091,2024-07-02,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2024-07-30,2024-07-31
+ISS00107,TradeFailure,TRD103227,ACC5404,2024-07-03,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2024-07-31,2024-08-02
+ISS00108,AMLFlag,TXN201818,ACC5383,2024-07-04,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-07-25,2024-07-12
+ISS00109,TradeFailure,TRD104517,ACC5471,2024-07-05,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-07-26,2024-07-31
+ISS00110,TradeFailure,TRD104398,ACC5283,2024-07-15,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2024-08-12,2024-08-13
+ISS00111,AMLFlag,TXN201911,ACC5121,2024-07-16,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-08-06,2024-08-08
+ISS00112,TradeFailure,TRD102795,ACC5110,2024-07-17,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2024-08-07,2024-08-01
+ISS00113,TradeFailure,TRD102438,ACC5216,2024-07-19,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2024-08-16,2024-08-16
+ISS00114,TradeFailure,TRD105504,ACC5229,2024-07-19,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2024-08-02,2024-08-05
+ISS00115,AMLFlag,TXN201971,ACC5413,2024-07-22,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-08-12,2024-09-25
+ISS00116,TradeFailure,TRD105819,ACC5473,2024-07-23,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2024-08-06,2024-07-26
+ISS00117,AMLFlag,TXN202012,ACC5235,2024-07-23,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-08-13,2024-08-13
+ISS00118,TradeFailure,TRD108354,ACC5101,2024-07-25,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-08-15,2024-08-20
+ISS00119,TradeFailure,TRD102649,ACC5240,2024-07-29,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-08-19,2024-08-16
+ISS00120,TradeFailure,TRD107953,ACC5273,2024-07-29,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-08-26,2024-09-05
+ISS00121,TradeFailure,TRD100978,ACC5405,2024-07-30,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2024-08-27,2024-09-05
+ISS00122,TradeFailure,TRD108203,ACC5009,2024-07-30,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-08-20,2024-08-20
+ISS00123,AMLFlag,TXN202077,ACC5478,2024-08-01,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-08-22,2024-08-16
+ISS00124,TradeFailure,TRD104808,ACC5012,2024-08-05,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2024-08-26,2024-08-09
+ISS00125,TradeFailure,TRD103334,ACC5209,2024-08-07,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-08-28,2024-10-02
+ISS00126,TradeFailure,TRD108391,ACC5201,2024-08-07,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2024-08-21,2024-08-09
+ISS00127,TradeFailure,TRD105274,ACC5036,2024-08-08,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2024-09-05,2024-09-10
+ISS00128,AMLFlag,TXN202141,ACC5263,2024-08-08,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-08-29,2024-08-29
+ISS00129,TradeFailure,TRD108140,ACC5497,2024-08-09,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2024-09-06,2024-08-21
+ISS00130,TradeFailure,TRD106261,ACC5376,2024-08-14,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-09-04,2024-10-14
+ISS00131,TradeFailure,TRD107061,ACC5433,2024-08-14,Trade settlement failure: Late instruction,High,Closed,Manual Process Error,2024-08-28,2024-09-03
+ISS00132,AMLFlag,TXN202207,ACC5100,2024-08-14,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-09-04,2024-09-04
+ISS00133,TradeFailure,TRD101106,ACC5401,2024-08-19,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-09-09,2024-08-27
+ISS00134,TradeFailure,TRD105869,ACC5268,2024-08-19,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-09-16,2024-10-11
+ISS00135,TradeFailure,TRD104054,ACC5436,2024-08-28,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-09-18,2024-10-09
+ISS00136,AMLFlag,TXN202398,ACC5469,2024-08-30,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2024-09-20,2024-09-19
+ISS00137,TradeFailure,TRD109244,ACC5287,2024-09-04,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-09-25,2024-10-22
+ISS00138,TradeFailure,TRD104664,ACC5167,2024-09-06,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-09-27,2024-09-26
+ISS00139,TradeFailure,TRD104650,ACC5343,2024-09-09,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-09-30,2024-09-30
+ISS00140,TradeFailure,TRD101069,ACC5356,2024-09-10,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-10-01,2024-09-26
+ISS00141,AMLFlag,TXN202510,ACC5426,2024-09-13,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-10-04,2024-10-10
+ISS00142,TradeFailure,TRD104595,ACC5194,2024-09-16,Trade settlement failure: Counterparty failed to deliver,Critical,Closed,Third-Party Failure,2024-09-23,2024-09-24
+ISS00143,TradeFailure,TRD109348,ACC5230,2024-09-16,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-10-14,2024-10-02
+ISS00144,TradeFailure,TRD108831,ACC5344,2024-09-20,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2024-10-18,2024-10-03
+ISS00145,TradeFailure,TRD102470,ACC5003,2024-09-24,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-10-15,2024-10-09
+ISS00146,TradeFailure,TRD104648,ACC5021,2024-09-24,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-10-22,2024-10-28
+ISS00147,AMLFlag,TXN202651,ACC5011,2024-09-24,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-10-15,2024-10-09
+ISS00148,TradeFailure,TRD109602,ACC5216,2024-10-01,Trade settlement failure: Insufficient securities,Critical,Closed,Third-Party Failure,2024-10-08,2024-10-03
+ISS00149,AMLFlag,TXN202747,ACC5433,2024-10-03,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-10-24,2024-10-21
+ISS00150,AMLFlag,TXN202789,ACC5465,2024-10-08,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-10-22,2024-10-14
+ISS00151,AMLFlag,TXN202796,ACC5020,2024-10-08,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-10-29,2024-10-21
+ISS00152,AMLFlag,TXN202778,ACC5465,2024-10-09,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-10-23,2024-10-14
+ISS00153,AMLFlag,TXN202832,ACC5465,2024-10-09,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-10-23,2024-10-22
+ISS00154,TradeFailure,TRD100702,ACC5323,2024-10-10,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2024-10-31,2024-11-06
+ISS00155,TradeFailure,TRD102450,ACC5002,2024-10-10,Trade settlement failure: System outage,Critical,Closed,System/Automation Gap,2024-10-17,2024-10-16
+ISS00156,AMLFlag,TXN202816,ACC5465,2024-10-10,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2024-10-24,2024-10-24
+ISS00157,TradeFailure,TRD102843,ACC5036,2024-10-11,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2024-11-08,2024-11-06
+ISS00158,TradeFailure,TRD105981,ACC5278,2024-10-14,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-11-04,2024-11-05
+ISS00159,TradeFailure,TRD105855,ACC5025,2024-10-15,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-11-12,2024-11-14
+ISS00160,TradeFailure,TRD109435,ACC5037,2024-10-15,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2024-11-12,2024-11-15
+ISS00161,TradeFailure,TRD106372,ACC5188,2024-10-17,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-11-14,2024-11-28
+ISS00162,TradeFailure,TRD106874,ACC5093,2024-10-17,Trade settlement failure: System outage,High,Closed,System/Automation Gap,2024-10-31,2024-10-22
+ISS00163,TradeFailure,TRD109087,ACC5436,2024-10-18,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-11-15,2024-11-22
+ISS00164,TradeFailure,TRD109089,ACC5324,2024-10-21,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2024-11-11,2024-11-05
+ISS00165,AMLFlag,TXN202893,ACC5060,2024-10-21,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2024-11-11,2024-11-01
+ISS00166,TradeFailure,TRD103964,ACC5239,2024-10-22,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2024-11-05,2024-10-25
+ISS00167,TradeFailure,TRD107544,ACC5368,2024-10-22,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2024-11-19,2024-10-31
+ISS00168,TradeFailure,TRD107665,ACC5057,2024-10-24,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2024-11-21,2024-11-11
+ISS00169,TradeFailure,TRD109893,ACC5146,2024-10-24,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2024-11-14,2024-11-05
+ISS00170,TradeFailure,TRD104050,ACC5138,2024-10-30,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-11-20,2024-11-28
+ISS00171,TradeFailure,TRD102712,ACC5237,2024-10-31,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-11-21,2024-11-26
+ISS00172,TradeFailure,TRD100226,ACC5160,2024-11-04,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2024-12-02,2024-12-25
+ISS00173,TradeFailure,TRD104295,ACC5095,2024-11-04,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2024-11-25,2024-11-19
+ISS00174,TradeFailure,TRD106561,ACC5028,2024-11-08,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-11-29,2024-12-03
+ISS00175,TradeFailure,TRD106736,ACC5443,2024-11-08,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-12-06,2024-11-19
+ISS00176,AMLFlag,TXN203251,ACC5462,2024-11-21,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2024-12-12,2025-01-23
+ISS00177,TradeFailure,TRD100931,ACC5429,2024-11-26,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2024-12-10,2024-12-25
+ISS00178,TradeFailure,TRD107129,ACC5370,2024-11-27,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-12-18,2024-12-09
+ISS00179,TradeFailure,TRD101931,ACC5321,2024-11-28,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2024-12-26,2025-01-22
+ISS00180,TradeFailure,TRD100956,ACC5135,2024-12-04,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2025-01-01,2024-12-16
+ISS00181,TradeFailure,TRD100283,ACC5019,2024-12-05,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2024-12-19,2024-12-13
+ISS00182,TradeFailure,TRD100634,ACC5004,2024-12-06,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2024-12-27,2024-12-24
+ISS00183,TradeFailure,TRD103479,ACC5430,2024-12-06,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2024-12-27,2024-12-17
+ISS00184,TradeFailure,TRD100876,ACC5187,2024-12-09,Trade settlement failure: Insufficient securities,Critical,Closed,Third-Party Failure,2024-12-16,2024-12-17
+ISS00185,TradeFailure,TRD106285,ACC5234,2024-12-09,Trade settlement failure: System outage,High,Closed,System/Automation Gap,2024-12-23,2024-12-30
+ISS00186,TradeFailure,TRD100084,ACC5045,2024-12-12,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-01-02,2024-12-19
+ISS00187,TradeFailure,TRD106547,ACC5370,2024-12-12,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-01-02,2024-12-31
+ISS00188,AMLFlag,TXN203508,ACC5399,2024-12-16,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-01-06,2024-12-25
+ISS00189,TradeFailure,TRD103588,ACC5020,2024-12-17,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2025-01-14,2025-01-13
+ISS00190,TradeFailure,TRD101793,ACC5148,2024-12-18,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-01-08,2025-01-07
+ISS00191,AMLFlag,TXN203519,ACC5250,2024-12-18,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-01-08,2024-12-30
+ISS00192,TradeFailure,TRD102860,ACC5416,2024-12-19,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-01-09,2025-01-03
+ISS00193,TradeFailure,TRD107488,ACC5144,2024-12-25,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-01-15,2025-01-13
+ISS00194,AMLFlag,TXN203652,ACC5268,2024-12-26,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-01-16,2025-01-07
+ISS00195,TradeFailure,TRD108058,ACC5233,2024-12-30,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-01-27,2025-01-07
+ISS00196,TradeFailure,TRD100995,ACC5330,2024-12-31,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-01-28,2025-02-04
+ISS00197,TradeFailure,TRD107996,ACC5313,2025-01-01,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-01-22,2025-01-27
+ISS00198,AMLFlag,TXN203683,ACC5045,2025-01-01,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2025-01-22,2025-01-27
+ISS00199,AMLFlag,TXN203704,ACC5246,2025-01-01,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-01-22,2025-01-10
+ISS00200,TradeFailure,TRD102776,ACC5107,2025-01-07,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-01-28,2025-01-22
+ISS00201,TradeFailure,TRD107884,ACC5090,2025-01-07,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-01-28,2025-01-14
+ISS00202,AMLFlag,TXN203801,ACC5311,2025-01-13,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-01-27,2025-02-17
+ISS00203,TradeFailure,TRD104284,ACC5254,2025-01-14,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-02-04,2025-01-22
+ISS00204,AMLFlag,TXN203807,ACC5311,2025-01-14,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-01-28,2025-02-05
+ISS00205,AMLFlag,TXN203833,ACC5311,2025-01-14,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-01-28,2025-01-21
+ISS00206,AMLFlag,TXN203836,ACC5090,2025-01-14,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-01-28,2025-01-27
+ISS00207,TradeFailure,TRD107713,ACC5405,2025-01-15,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-02-05,2025-01-29
+ISS00208,TradeFailure,TRD109972,ACC5229,2025-01-15,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-02-12,2025-02-03
+ISS00209,AMLFlag,TXN203840,ACC5311,2025-01-17,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-01-31,2025-01-31
+ISS00210,TradeFailure,TRD101367,ACC5396,2025-01-20,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-02-10,2025-01-31
+ISS00211,TradeFailure,TRD104768,ACC5138,2025-01-20,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-02-17,2025-01-29
+ISS00212,AMLFlag,TXN203878,ACC5090,2025-01-21,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-02-04,2025-01-30
+ISS00213,TradeFailure,TRD104417,ACC5095,2025-01-23,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-02-13,2025-02-24
+ISS00214,TradeFailure,TRD104539,ACC5383,2025-01-24,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2025-02-07,2025-02-05
+ISS00215,TradeFailure,TRD109980,ACC5463,2025-01-27,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-02-24,2025-02-10
+ISS00216,AMLFlag,TXN203943,ACC5196,2025-01-30,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-02-20,2025-04-17
+ISS00217,TradeFailure,TRD106989,ACC5212,2025-01-31,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-02-21,2025-02-18
+ISS00218,TradeFailure,TRD108419,ACC5427,2025-01-31,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2025-02-28,2025-02-14
+ISS00219,AMLFlag,TXN204024,ACC5041,2025-02-04,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-02-25,2025-03-31
+ISS00220,TradeFailure,TRD109490,ACC5405,2025-02-06,Trade settlement failure: Late instruction,High,Closed,Manual Process Error,2025-02-20,2025-02-11
+ISS00221,TradeFailure,TRD104069,ACC5387,2025-02-07,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-02-28,2025-02-18
+ISS00222,TradeFailure,TRD100003,ACC5393,2025-02-11,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2025-03-11,2025-03-21
+ISS00223,TradeFailure,TRD108147,ACC5122,2025-02-11,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-03-04,2025-02-20
+ISS00224,TradeFailure,TRD109001,ACC5235,2025-02-12,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-03-12,2025-03-18
+ISS00225,AMLFlag,TXN204106,ACC5173,2025-02-12,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-02-26,2025-03-03
+ISS00226,AMLFlag,TXN204107,ACC5173,2025-02-12,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-02-26,2025-03-19
+ISS00227,TradeFailure,TRD107195,ACC5209,2025-02-13,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-03-06,2025-03-17
+ISS00228,AMLFlag,TXN204131,ACC5173,2025-02-14,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-02-28,2025-02-24
+ISS00229,AMLFlag,TXN204122,ACC5173,2025-02-17,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-03-03,2025-02-24
+ISS00230,TradeFailure,TRD104087,ACC5291,2025-02-18,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-03-11,2025-02-27
+ISS00231,TradeFailure,TRD106903,ACC5418,2025-02-18,Trade settlement failure: System outage,High,Closed,System/Automation Gap,2025-03-04,2025-02-24
+ISS00232,AMLFlag,TXN204144,ACC5173,2025-02-18,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-03-04,2025-03-04
+ISS00233,TradeFailure,TRD104834,ACC5463,2025-02-20,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2025-03-06,2025-02-25
+ISS00234,TradeFailure,TRD100663,ACC5309,2025-02-24,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2025-03-24,2025-03-19
+ISS00235,AMLFlag,TXN204200,ACC5201,2025-02-24,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-03-17,2025-02-28
+ISS00236,TradeFailure,TRD104931,ACC5057,2025-02-25,Trade settlement failure: System outage,High,Closed,System/Automation Gap,2025-03-11,2025-03-10
+ISS00237,TradeFailure,TRD104637,ACC5128,2025-02-27,Trade settlement failure: Insufficient securities,Critical,Closed,Third-Party Failure,2025-03-06,2025-03-04
+ISS00238,TradeFailure,TRD106688,ACC5058,2025-02-27,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-03-20,2025-03-24
+ISS00239,TradeFailure,TRD104794,ACC5025,2025-02-28,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-03-21,2025-03-05
+ISS00240,AMLFlag,TXN204258,ACC5102,2025-03-04,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2025-03-25,2025-04-01
+ISS00241,AMLFlag,TXN204269,ACC5442,2025-03-04,Escalated AML alert: LargeTransaction;HighRiskJurisdiction,Critical,Closed,Multiple Rules,2025-03-11,2025-03-10
+ISS00242,TradeFailure,TRD106172,ACC5456,2025-03-10,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-03-31,2025-03-21
+ISS00243,TradeFailure,TRD107501,ACC5234,2025-03-10,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-04-07,2025-04-08
+ISS00244,TradeFailure,TRD108807,ACC5081,2025-03-10,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-03-31,2025-03-31
+ISS00245,AMLFlag,TXN204335,ACC5028,2025-03-11,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-04-01,2025-03-19
+ISS00246,TradeFailure,TRD104706,ACC5440,2025-03-12,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-04-02,2025-03-31
+ISS00247,TradeFailure,TRD105372,ACC5311,2025-03-13,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-04-10,2025-04-16
+ISS00248,TradeFailure,TRD104753,ACC5101,2025-03-18,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-04-08,2025-03-25
+ISS00249,TradeFailure,TRD106671,ACC5387,2025-03-20,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-04-17,2025-04-15
+ISS00250,TradeFailure,TRD102466,ACC5117,2025-03-21,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-04-18,2025-05-05
+ISS00251,TradeFailure,TRD103487,ACC5007,2025-03-28,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-04-25,2025-04-23
+ISS00252,TradeFailure,TRD108906,ACC5458,2025-04-02,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-04-23,2025-04-15
+ISS00253,TradeFailure,TRD107163,ACC5457,2025-04-03,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-04-24,2025-04-11
+ISS00254,AMLFlag,TXN204609,ACC5494,2025-04-03,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-04-24,2025-04-14
+ISS00255,AMLFlag,TXN204612,ACC5478,2025-04-07,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-04-28,2025-04-21
+ISS00256,AMLFlag,TXN204706,ACC5174,2025-04-14,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-05-05,2025-05-08
+ISS00257,TradeFailure,TRD103341,ACC5381,2025-04-15,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-05-06,2025-05-08
+ISS00258,TradeFailure,TRD102779,ACC5038,2025-04-16,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2025-05-14,2025-05-05
+ISS00259,TradeFailure,TRD103512,ACC5287,2025-04-16,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-05-14,2025-04-30
+ISS00260,TradeFailure,TRD108862,ACC5031,2025-04-16,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-05-07,2025-04-29
+ISS00261,AMLFlag,TXN204748,ACC5134,2025-04-16,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-04-30,2025-05-07
+ISS00262,TradeFailure,TRD107017,ACC5341,2025-04-17,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-05-08,2025-04-24
+ISS00263,TradeFailure,TRD107971,ACC5389,2025-04-17,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-05-15,2025-05-09
+ISS00264,TradeFailure,TRD105811,ACC5144,2025-04-18,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-05-16,2025-05-06
+ISS00265,TradeFailure,TRD109881,ACC5321,2025-04-18,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2025-05-02,2025-05-05
+ISS00266,AMLFlag,TXN204761,ACC5134,2025-04-21,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-05-05,2025-04-30
+ISS00267,AMLFlag,TXN204789,ACC5134,2025-04-21,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-05-05,2025-04-25
+ISS00268,TradeFailure,TRD103576,ACC5322,2025-04-22,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-05-13,2025-05-30
+ISS00269,TradeFailure,TRD106841,ACC5119,2025-04-30,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-05-21,2025-05-19
+ISS00270,TradeFailure,TRD105707,ACC5449,2025-05-01,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-05-22,2025-05-20
+ISS00271,TradeFailure,TRD106386,ACC5262,2025-05-01,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-05-29,2025-05-12
+ISS00272,TradeFailure,TRD100405,ACC5393,2025-05-02,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-05-23,2025-05-16
+ISS00273,TradeFailure,TRD101358,ACC5349,2025-05-06,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-05-27,2025-05-16
+ISS00274,TradeFailure,TRD107032,ACC5311,2025-05-06,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-05-27,2025-05-21
+ISS00275,TradeFailure,TRD100189,ACC5441,2025-05-07,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2025-05-21,2025-05-12
+ISS00276,AMLFlag,TXN205033,ACC5469,2025-05-14,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-06-04,2025-06-02
+ISS00277,TradeFailure,TRD102423,ACC5249,2025-05-15,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-06-05,2025-06-10
+ISS00278,TradeFailure,TRD105864,ACC5136,2025-05-16,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-06-13,2025-06-02
+ISS00279,AMLFlag,TXN205105,ACC5500,2025-05-21,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-06-11,2025-06-10
+ISS00280,TradeFailure,TRD102550,ACC5406,2025-05-22,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-06-12,2025-06-02
+ISS00281,AMLFlag,TXN205146,ACC5489,2025-05-23,Escalated AML alert: LargeTransaction;HighRiskJurisdiction,Critical,Closed,Multiple Rules,2025-05-30,2025-06-06
+ISS00282,TradeFailure,TRD106010,ACC5037,2025-05-26,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-06-23,2025-06-06
+ISS00283,TradeFailure,TRD101716,ACC5383,2025-05-27,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-06-17,2025-06-11
+ISS00284,TradeFailure,TRD107779,ACC5055,2025-05-27,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-06-17,2025-06-06
+ISS00285,TradeFailure,TRD103577,ACC5434,2025-05-29,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-06-19,2025-06-09
+ISS00286,TradeFailure,TRD107999,ACC5178,2025-05-29,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2025-06-12,2025-06-25
+ISS00287,AMLFlag,TXN205172,ACC5009,2025-05-29,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-06-12,2025-06-24
+ISS00288,AMLFlag,TXN205199,ACC5009,2025-05-29,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-06-12,2025-06-06
+ISS00289,TradeFailure,TRD101963,ACC5034,2025-05-30,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-06-20,2025-09-16
+ISS00290,TradeFailure,TRD104867,ACC5324,2025-05-30,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-06-27,2025-07-10
+ISS00291,AMLFlag,TXN205203,ACC5009,2025-05-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-06-13,2025-06-19
+ISS00292,TradeFailure,TRD105297,ACC5108,2025-06-02,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-06-23,2025-06-18
+ISS00293,TradeFailure,TRD109950,ACC5121,2025-06-02,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-06-30,2025-07-14
+ISS00294,TradeFailure,TRD102058,ACC5042,2025-06-04,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-06-25,2025-06-23
+ISS00295,TradeFailure,TRD105201,ACC5299,2025-06-04,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-06-25,2025-06-13
+ISS00296,TradeFailure,TRD108474,ACC5321,2025-06-04,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-06-25,2025-06-20
+ISS00297,TradeFailure,TRD104162,ACC5225,2025-06-06,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-06-27,2025-06-19
+ISS00298,TradeFailure,TRD109958,ACC5482,2025-06-06,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2025-07-04,2025-06-18
+ISS00299,TradeFailure,TRD104585,ACC5454,2025-06-10,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-07-08,2025-07-18
+ISS00300,TradeFailure,TRD103059,ACC5390,2025-06-13,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-07-04,2025-07-02
+ISS00301,AMLFlag,TXN205354,ACC5371,2025-06-17,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-07-08,2025-07-02
+ISS00302,TradeFailure,TRD100157,ACC5313,2025-06-18,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-07-09,2025-07-31
+ISS00303,TradeFailure,TRD106847,ACC5445,2025-06-19,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-07-17,2025-07-14
+ISS00304,TradeFailure,TRD103551,ACC5325,2025-06-23,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-07-14,2025-07-25
+ISS00305,TradeFailure,TRD108866,ACC5270,2025-06-26,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-07-17,2025-07-07
+ISS00306,TradeFailure,TRD103644,ACC5486,2025-06-27,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-07-25,2025-07-11
+ISS00307,TradeFailure,TRD109275,ACC5384,2025-06-27,Trade settlement failure: Late instruction,High,Closed,Manual Process Error,2025-07-11,2025-07-09
+ISS00308,TradeFailure,TRD104330,ACC5235,2025-06-30,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-07-28,2025-07-23
+ISS00309,TradeFailure,TRD103194,ACC5435,2025-07-02,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-07-30,2025-07-29
+ISS00310,TradeFailure,TRD106333,ACC5063,2025-07-02,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-07-30,2025-08-11
+ISS00311,TradeFailure,TRD104682,ACC5129,2025-07-04,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-07-25,2025-11-05
+ISS00312,TradeFailure,TRD101229,ACC5363,2025-07-07,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2025-07-21,2025-07-10
+ISS00313,TradeFailure,TRD101611,ACC5073,2025-07-07,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-07-28,2025-07-18
+ISS00314,TradeFailure,TRD107584,ACC5370,2025-07-07,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-07-28,2025-07-28
+ISS00315,TradeFailure,TRD106538,ACC5156,2025-07-08,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-08-05,2025-09-11
+ISS00316,TradeFailure,TRD101691,ACC5007,2025-07-14,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-08-04,2025-07-29
+ISS00317,TradeFailure,TRD104542,ACC5419,2025-07-15,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-08-05,2025-07-31
+ISS00318,TradeFailure,TRD103665,ACC5364,2025-07-16,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-08-06,2025-07-30
+ISS00319,AMLFlag,TXN205650,ACC5442,2025-07-16,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-08-06,2025-08-07
+ISS00320,TradeFailure,TRD106540,ACC5223,2025-07-21,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-08-11,2025-08-06
+ISS00321,TradeFailure,TRD106758,ACC5077,2025-07-21,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-08-11,2025-08-15
+ISS00322,TradeFailure,TRD109740,ACC5458,2025-07-23,Trade settlement failure: Late instruction,High,Closed,Manual Process Error,2025-08-06,2025-08-14
+ISS00323,AMLFlag,TXN205704,ACC5410,2025-07-23,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-08-13,2025-08-06
+ISS00324,TradeFailure,TRD101115,ACC5328,2025-07-24,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-08-14,2025-08-21
+ISS00325,TradeFailure,TRD105562,ACC5063,2025-07-25,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-08-15,2025-08-06
+ISS00326,TradeFailure,TRD108138,ACC5034,2025-07-25,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-08-22,2025-08-20
+ISS00327,TradeFailure,TRD109608,ACC5428,2025-07-25,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-08-15,2025-08-06
+ISS00328,AMLFlag,TXN205756,ACC5140,2025-07-29,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-08-12,2025-08-01
+ISS00329,TradeFailure,TRD105418,ACC5249,2025-07-30,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-08-20,2025-08-27
+ISS00330,AMLFlag,TXN205757,ACC5140,2025-07-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-08-13,2025-08-06
+ISS00331,AMLFlag,TXN205772,ACC5140,2025-07-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-08-13,2025-08-06
+ISS00332,AMLFlag,TXN205776,ACC5056,2025-07-30,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2025-08-20,2025-08-13
+ISS00333,AMLFlag,TXN205783,ACC5140,2025-07-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-08-13,2025-09-01
+ISS00334,TradeFailure,TRD103383,ACC5257,2025-07-31,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-08-28,2025-09-24
+ISS00335,TradeFailure,TRD103426,ACC5391,2025-08-05,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-09-02,2025-08-13
+ISS00336,TradeFailure,TRD104668,ACC5060,2025-08-06,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-08-27,2025-08-14
+ISS00337,TradeFailure,TRD100021,ACC5091,2025-08-07,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-09-04,2025-10-09
+ISS00338,TradeFailure,TRD101607,ACC5396,2025-08-07,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-08-28,2025-10-02
+ISS00339,TradeFailure,TRD106293,ACC5017,2025-08-07,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2025-08-21,2025-08-21
+ISS00340,TradeFailure,TRD100849,ACC5070,2025-08-08,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-08-29,2025-08-27
+ISS00341,TradeFailure,TRD108126,ACC5467,2025-08-11,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2025-08-25,2025-08-21
+ISS00342,TradeFailure,TRD103159,ACC5219,2025-08-12,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-09-09,2025-09-01
+ISS00343,TradeFailure,TRD104692,ACC5067,2025-08-13,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-09-03,2025-08-21
+ISS00344,AMLFlag,TXN205939,ACC5153,2025-08-13,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-09-03,2025-09-09
+ISS00345,TradeFailure,TRD105324,ACC5082,2025-08-14,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-09-04,2025-08-25
+ISS00346,TradeFailure,TRD103217,ACC5464,2025-08-21,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-09-11,2025-09-15
+ISS00347,AMLFlag,TXN205999,ACC5147,2025-08-21,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-09-11,2025-09-08
+ISS00348,TradeFailure,TRD108776,ACC5112,2025-08-25,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-09-15,2025-09-24
+ISS00349,AMLFlag,TXN206037,ACC5044,2025-08-25,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-09-08,2025-09-01
+ISS00350,TradeFailure,TRD105729,ACC5036,2025-08-26,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-09-16,2025-09-03
+ISS00351,AMLFlag,TXN206042,ACC5044,2025-08-26,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-09-09,2025-09-02
+ISS00352,TradeFailure,TRD108988,ACC5121,2025-08-27,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-09-17,2025-09-12
+ISS00353,TradeFailure,TRD104164,ACC5346,2025-08-28,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-09-18,2025-09-12
+ISS00354,TradeFailure,TRD105047,ACC5118,2025-08-28,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-09-25,2025-09-09
+ISS00355,TradeFailure,TRD109136,ACC5411,2025-08-28,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-09-25,2025-09-15
+ISS00356,AMLFlag,TXN206066,ACC5044,2025-08-28,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-09-11,2025-09-09
+ISS00357,AMLFlag,TXN206073,ACC5044,2025-08-28,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-09-11,2025-09-15
+ISS00358,TradeFailure,TRD105004,ACC5331,2025-08-29,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2025-09-12,2025-09-10
+ISS00359,TradeFailure,TRD106250,ACC5024,2025-09-01,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-09-29,2025-10-03
+ISS00360,TradeFailure,TRD101049,ACC5241,2025-09-04,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-10-02,2025-09-26
+ISS00361,TradeFailure,TRD103750,ACC5434,2025-09-04,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-09-25,2025-09-22
+ISS00362,TradeFailure,TRD109765,ACC5082,2025-09-04,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-09-25,2025-09-26
+ISS00363,TradeFailure,TRD100401,ACC5040,2025-09-05,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-10-03,2025-09-17
+ISS00364,TradeFailure,TRD105574,ACC5401,2025-09-05,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-10-03,2025-11-07
+ISS00365,TradeFailure,TRD106119,ACC5347,2025-09-09,Trade settlement failure: Late instruction,Critical,Closed,Manual Process Error,2025-09-16,2025-09-15
+ISS00366,TradeFailure,TRD100526,ACC5128,2025-09-15,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-10-06,2025-09-30
+ISS00367,TradeFailure,TRD101410,ACC5406,2025-09-15,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-10-13,2025-10-09
+ISS00368,TradeFailure,TRD103615,ACC5322,2025-09-17,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-10-08,2025-10-17
+ISS00369,TradeFailure,TRD101571,ACC5221,2025-09-19,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-10-10,2025-10-10
+ISS00370,TradeFailure,TRD101950,ACC5391,2025-09-19,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-10-10,2025-10-14
+ISS00371,TradeFailure,TRD105271,ACC5281,2025-09-22,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-10-20,2025-10-15
+ISS00372,TradeFailure,TRD107098,ACC5099,2025-09-23,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-10-14,2025-10-02
+ISS00373,TradeFailure,TRD108377,ACC5319,2025-09-23,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-10-14,2025-09-26
+ISS00374,TradeFailure,TRD101505,ACC5265,2025-09-25,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-10-16,2025-10-22
+ISS00375,TradeFailure,TRD104371,ACC5375,2025-09-25,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-10-16,2025-10-24
+ISS00376,TradeFailure,TRD104671,ACC5349,2025-09-26,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-10-24,2025-10-08
+ISS00377,TradeFailure,TRD109379,ACC5375,2025-09-26,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-10-24,2025-10-08
+ISS00378,TradeFailure,TRD101603,ACC5268,2025-09-30,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-10-21,2025-10-08
+ISS00379,AMLFlag,TXN206430,ACC5156,2025-10-01,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-10-22,2025-10-13
+ISS00380,TradeFailure,TRD101608,ACC5117,2025-10-08,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-10-29,2025-10-17
+ISS00381,AMLFlag,TXN206519,ACC5157,2025-10-08,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-10-29,2025-10-27
+ISS00382,TradeFailure,TRD102574,ACC5245,2025-10-09,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-10-30,2025-10-28
+ISS00383,TradeFailure,TRD102199,ACC5367,2025-10-14,Trade settlement failure: Insufficient securities,Critical,Closed,Third-Party Failure,2025-10-21,2025-10-20
+ISS00384,TradeFailure,TRD108877,ACC5372,2025-10-16,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-11-06,2025-10-29
+ISS00385,AMLFlag,TXN206567,ACC5108,2025-10-16,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-11-06,2025-10-27
+ISS00386,TradeFailure,TRD108271,ACC5013,2025-10-17,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-11-07,2025-10-24
+ISS00387,TradeFailure,TRD103252,ACC5225,2025-10-21,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-11-11,2025-10-31
+ISS00388,AMLFlag,TXN206672,ACC5100,2025-10-24,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-11-14,2025-11-17
+ISS00389,AMLFlag,TXN206677,ACC5196,2025-10-24,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-11-07,2025-10-29
+ISS00390,AMLFlag,TXN206710,ACC5196,2025-10-28,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-11-11,2025-11-06
+ISS00391,TradeFailure,TRD100417,ACC5354,2025-10-29,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2025-11-26,2025-11-11
+ISS00392,AMLFlag,TXN206688,ACC5196,2025-10-29,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-11-12,2025-11-04
+ISS00393,TradeFailure,TRD104161,ACC5004,2025-10-30,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-11-20,2025-11-27
+ISS00394,TradeFailure,TRD105545,ACC5419,2025-10-30,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-11-20,2025-12-02
+ISS00395,TradeFailure,TRD106037,ACC5102,2025-10-30,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-11-27,2025-11-27
+ISS00396,TradeFailure,TRD101725,ACC5461,2025-11-03,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-12-01,2025-11-13
+ISS00397,TradeFailure,TRD104403,ACC5213,2025-11-03,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-12-01,2025-12-05
+ISS00398,TradeFailure,TRD108390,ACC5255,2025-11-03,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-11-24,2025-11-26
+ISS00399,TradeFailure,TRD102539,ACC5486,2025-11-06,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-12-04,2026-01-09
+ISS00400,AMLFlag,TXN206834,ACC5304,2025-11-10,Escalated AML alert: LargeTransaction;HighRiskJurisdiction,Critical,Closed,Multiple Rules,2025-11-17,2025-11-13
+ISS00401,AMLFlag,TXN206833,ACC5342,2025-11-11,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-11-25,2025-11-24
+ISS00402,TradeFailure,TRD100034,ACC5032,2025-11-12,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2025-12-10,2025-11-25
+ISS00403,TradeFailure,TRD102732,ACC5441,2025-11-12,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-12-03,2025-11-18
+ISS00404,TradeFailure,TRD106607,ACC5448,2025-11-13,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2025-12-11,2025-11-21
+ISS00405,AMLFlag,TXN206876,ACC5342,2025-11-13,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-11-27,2025-11-25
+ISS00406,TradeFailure,TRD101233,ACC5181,2025-11-17,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-12-08,2025-11-27
+ISS00407,TradeFailure,TRD101158,ACC5410,2025-11-18,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-12-09,2025-12-09
+ISS00408,TradeFailure,TRD101704,ACC5018,2025-11-19,Trade settlement failure: SSI mismatch,Critical,Closed,Data Quality Issue,2025-11-26,2025-11-26
+ISS00409,TradeFailure,TRD108713,ACC5083,2025-11-19,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2025-12-17,2025-12-11
+ISS00410,TradeFailure,TRD105394,ACC5452,2025-11-21,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2025-12-12,2025-11-28
+ISS00411,TradeFailure,TRD109336,ACC5177,2025-11-24,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2025-12-15,2025-12-03
+ISS00412,TradeFailure,TRD105078,ACC5469,2025-11-26,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-12-17,2025-12-15
+ISS00413,TradeFailure,TRD106478,ACC5272,2025-11-26,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-12-17,2025-12-16
+ISS00414,TradeFailure,TRD107028,ACC5168,2025-11-26,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2025-12-17,2025-12-16
+ISS00415,TradeFailure,TRD100551,ACC5070,2025-11-27,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2025-12-18,2025-12-24
+ISS00416,TradeFailure,TRD103421,ACC5490,2025-11-27,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2025-12-25,2025-12-17
+ISS00417,AMLFlag,TXN207018,ACC5449,2025-11-27,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-12-11,2025-12-10
+ISS00418,AMLFlag,TXN207039,ACC5449,2025-11-28,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-12-12,2025-12-15
+ISS00419,TradeFailure,TRD106206,ACC5072,2025-12-01,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2025-12-22,2025-12-29
+ISS00420,AMLFlag,TXN207059,ACC5449,2025-12-03,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2025-12-17,2025-12-15
+ISS00421,AMLFlag,TXN207081,ACC5490,2025-12-03,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2025-12-24,2025-12-18
+ISS00422,TradeFailure,TRD102604,ACC5088,2025-12-05,Trade settlement failure: Late instruction,High,Closed,Manual Process Error,2025-12-19,2025-12-18
+ISS00423,TradeFailure,TRD107242,ACC5416,2025-12-09,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-01-06,2025-12-31
+ISS00424,TradeFailure,TRD107458,ACC5170,2025-12-09,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2026-01-06,2025-12-26
+ISS00425,TradeFailure,TRD105960,ACC5403,2025-12-10,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2025-12-24,2025-12-17
+ISS00426,TradeFailure,TRD102915,ACC5272,2025-12-11,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-01-01,2025-12-18
+ISS00427,TradeFailure,TRD105994,ACC5414,2025-12-11,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-01-01,2026-01-02
+ISS00428,AMLFlag,TXN207155,ACC5453,2025-12-12,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-01-02,2026-01-02
+ISS00429,TradeFailure,TRD100443,ACC5041,2025-12-15,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-01-12,2026-01-08
+ISS00430,TradeFailure,TRD102509,ACC5253,2025-12-17,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-01-07,2026-01-07
+ISS00431,TradeFailure,TRD105436,ACC5024,2025-12-17,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2025-12-31,2025-12-26
+ISS00432,TradeFailure,TRD108255,ACC5199,2025-12-22,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-01-19,2026-02-19
+ISS00433,TradeFailure,TRD101423,ACC5437,2025-12-23,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2026-01-06,2026-01-09
+ISS00434,TradeFailure,TRD102542,ACC5023,2025-12-24,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-01-21,2026-02-25
+ISS00435,TradeFailure,TRD100751,ACC5098,2025-12-31,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-01-21,2026-01-12
+ISS00436,TradeFailure,TRD100236,ACC5161,2026-01-01,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2026-01-29,2026-01-22
+ISS00437,TradeFailure,TRD104260,ACC5343,2026-01-01,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-01-29,2026-01-22
+ISS00438,AMLFlag,TXN207408,ACC5137,2026-01-02,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-01-16,2026-01-27
+ISS00439,AMLFlag,TXN207400,ACC5452,2026-01-05,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-01-26,2026-01-09
+ISS00440,AMLFlag,TXN207436,ACC5137,2026-01-08,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-01-22,2026-01-23
+ISS00441,TradeFailure,TRD101180,ACC5128,2026-01-13,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-02-03,2026-01-30
+ISS00442,TradeFailure,TRD102954,ACC5499,2026-01-13,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-02-03,2026-02-11
+ISS00443,TradeFailure,TRD103432,ACC5114,2026-01-15,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-02-05,2026-01-28
+ISS00444,TradeFailure,TRD107029,ACC5221,2026-01-15,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-02-12,2026-01-23
+ISS00445,TradeFailure,TRD101372,ACC5168,2026-01-16,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-02-06,2026-03-05
+ISS00446,TradeFailure,TRD104046,ACC5375,2026-01-16,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-02-06,2026-02-03
+ISS00447,TradeFailure,TRD106494,ACC5235,2026-01-16,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-02-13,2026-02-24
+ISS00448,TradeFailure,TRD109048,ACC5412,2026-01-16,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-02-06,2026-01-30
+ISS00449,TradeFailure,TRD104611,ACC5309,2026-01-19,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-02-09,2026-02-18
+ISS00450,TradeFailure,TRD109007,ACC5449,2026-01-20,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-02-10,2026-02-13
+ISS00451,TradeFailure,TRD102773,ACC5421,2026-01-21,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-02-18,2026-03-05
+ISS00452,TradeFailure,TRD107002,ACC5457,2026-01-21,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-02-11,2026-02-04
+ISS00453,TradeFailure,TRD108365,ACC5204,2026-01-21,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2026-02-04,2026-02-13
+ISS00454,AMLFlag,TXN207579,ACC5221,2026-01-21,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-02-04,2026-02-05
+ISS00455,AMLFlag,TXN207596,ACC5221,2026-01-22,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-02-05,2026-01-27
+ISS00456,TradeFailure,TRD105105,ACC5152,2026-01-23,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-02-13,2026-02-27
+ISS00457,TradeFailure,TRD105722,ACC5031,2026-01-27,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-02-17,2026-02-19
+ISS00458,TradeFailure,TRD105971,ACC5005,2026-01-27,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-02-17,2026-02-10
+ISS00459,TradeFailure,TRD106186,ACC5035,2026-01-29,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-02-26,2026-02-19
+ISS00460,TradeFailure,TRD105759,ACC5438,2026-02-03,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-03-03,2026-02-16
+ISS00461,TradeFailure,TRD101841,ACC5164,2026-02-04,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-03-04,2026-02-27
+ISS00462,TradeFailure,TRD101513,ACC5294,2026-02-05,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-02-26,2026-02-27
+ISS00463,TradeFailure,TRD107535,ACC5165,2026-02-06,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-02-27,2026-02-25
+ISS00464,TradeFailure,TRD107969,ACC5166,2026-02-09,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2026-03-02,2026-02-27
+ISS00465,TradeFailure,TRD101266,ACC5107,2026-02-10,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2026-03-03,2026-02-23
+ISS00466,TradeFailure,TRD104488,ACC5241,2026-02-13,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-03-13,2026-02-27
+ISS00467,TradeFailure,TRD108002,ACC5237,2026-02-16,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-03-09,2026-03-04
+ISS00468,TradeFailure,TRD108750,ACC5486,2026-02-17,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2026-03-03,2026-03-02
+ISS00469,AMLFlag,TXN207896,ACC5142,2026-02-19,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-03-12,2026-03-05
+ISS00470,AMLFlag,TXN207898,ACC5395,2026-02-19,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-03-05,2026-03-05
+ISS00471,TradeFailure,TRD100646,ACC5218,2026-02-20,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-03-20,2026-03-30
+ISS00472,AMLFlag,TXN207919,ACC5395,2026-02-24,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-03-10,2026-03-16
+ISS00473,AMLFlag,TXN207928,ACC5395,2026-02-24,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-03-10,2026-03-04
+ISS00474,AMLFlag,TXN207939,ACC5395,2026-02-25,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-03-11,2026-03-02
+ISS00475,TradeFailure,TRD109913,ACC5010,2026-03-02,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-03-30,2026-03-30
+ISS00476,TradeFailure,TRD100166,ACC5430,2026-03-05,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2026-03-26,2026-03-19
+ISS00477,TradeFailure,TRD101818,ACC5384,2026-03-05,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2026-03-26,2026-03-23
+ISS00478,TradeFailure,TRD105563,ACC5437,2026-03-05,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-04-02,2026-03-23
+ISS00479,TradeFailure,TRD106901,ACC5470,2026-03-05,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-04-02,2026-04-29
+ISS00480,TradeFailure,TRD106114,ACC5224,2026-03-06,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-03-27,2026-03-20
+ISS00481,TradeFailure,TRD108358,ACC5049,2026-03-06,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2026-03-20,2026-04-07
+ISS00482,TradeFailure,TRD108674,ACC5453,2026-03-06,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-03-27,2026-04-01
+ISS00483,TradeFailure,TRD106893,ACC5372,2026-03-09,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-04-06,2026-04-17
+ISS00484,TradeFailure,TRD104244,ACC5108,2026-03-11,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-04-08,2026-04-01
+ISS00485,TradeFailure,TRD107787,ACC5026,2026-03-11,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-04-08,2026-03-25
+ISS00486,TradeFailure,TRD102244,ACC5251,2026-03-12,Trade settlement failure: Insufficient securities,Critical,Closed,Third-Party Failure,2026-03-19,2026-03-20
+ISS00487,AMLFlag,TXN208038,ACC5449,2026-03-12,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-04-02,2026-04-02
+ISS00488,AMLFlag,TXN208096,ACC5067,2026-03-17,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-04-07,2026-03-30
+ISS00489,AMLFlag,TXN208131,ACC5433,2026-03-18,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-04-08,2026-04-13
+ISS00490,TradeFailure,TRD102752,ACC5344,2026-03-19,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2026-04-16,2026-04-20
+ISS00491,TradeFailure,TRD105252,ACC5029,2026-03-19,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-04-16,2026-03-27
+ISS00492,TradeFailure,TRD100420,ACC5060,2026-03-20,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2026-04-10,2026-04-14
+ISS00493,TradeFailure,TRD108998,ACC5143,2026-03-20,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-04-10,2026-04-17
+ISS00494,TradeFailure,TRD109651,ACC5459,2026-03-23,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-04-13,2026-03-30
+ISS00495,TradeFailure,TRD103676,ACC5240,2026-03-24,Trade settlement failure: Insufficient securities,Critical,Closed,Third-Party Failure,2026-03-31,2026-04-09
+ISS00496,AMLFlag,TXN208219,ACC5475,2026-03-27,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-10,2026-04-21
+ISS00497,TradeFailure,TRD105379,ACC5449,2026-03-30,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2026-04-27,2026-04-07
+ISS00498,AMLFlag,TXN208262,ACC5475,2026-03-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-13,2026-04-08
+ISS00499,AMLFlag,TXN208270,ACC5357,2026-03-31,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-14,2026-04-07
+ISS00500,AMLFlag,TXN208273,ACC5010,2026-03-31,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-14,2026-04-06
+ISS00501,AMLFlag,TXN208276,ACC5010,2026-03-31,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-14,2026-04-14
+ISS00502,AMLFlag,TXN208279,ACC5357,2026-03-31,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-14,2026-04-13
+ISS00503,TradeFailure,TRD109586,ACC5203,2026-04-01,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-04-22,2026-04-10
+ISS00504,AMLFlag,TXN208305,ACC5010,2026-04-01,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-15,2026-04-08
+ISS00505,AMLFlag,TXN208272,ACC5293,2026-04-02,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-04-23,2026-04-20
+ISS00506,AMLFlag,TXN208298,ACC5357,2026-04-02,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-16,2026-04-16
+ISS00507,AMLFlag,TXN208312,ACC5357,2026-04-02,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-16,2026-04-09
+ISS00508,AMLFlag,TXN208307,ACC5474,2026-04-03,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-04-24,2026-04-21
+ISS00509,AMLFlag,TXN208314,ACC5304,2026-04-06,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2026-04-27,2026-04-28
+ISS00510,AMLFlag,TXN208317,ACC5357,2026-04-06,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-20,2026-04-23
+ISS00511,AMLFlag,TXN208321,ACC5419,2026-04-06,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-04-27,2026-04-24
+ISS00512,AMLFlag,TXN208327,ACC5010,2026-04-06,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-20,2026-04-17
+ISS00513,TradeFailure,TRD109395,ACC5303,2026-04-07,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-04-28,2026-04-22
+ISS00514,AMLFlag,TXN208325,ACC5306,2026-04-07,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-21,2026-04-15
+ISS00515,AMLFlag,TXN208350,ACC5306,2026-04-07,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-21,2026-04-20
+ISS00516,TradeFailure,TRD102729,ACC5367,2026-04-08,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2026-04-29,2026-04-27
+ISS00517,TradeFailure,TRD106904,ACC5205,2026-04-09,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-05-07,2026-05-07
+ISS00518,AMLFlag,TXN208343,ACC5306,2026-04-09,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-04-23,2026-04-16
+ISS00519,AMLFlag,TXN208395,ACC5383,2026-04-10,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2026-05-01,2026-05-05
+ISS00520,TradeFailure,TRD107375,ACC5042,2026-04-13,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-05-11,2026-04-22
+ISS00521,TradeFailure,TRD103601,ACC5293,2026-04-14,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-05-05,2026-05-07
+ISS00522,TradeFailure,TRD105966,ACC5188,2026-04-15,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2026-05-13,2026-05-05
+ISS00523,TradeFailure,TRD105522,ACC5495,2026-04-20,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2026-05-11,2026-04-28
+ISS00524,TradeFailure,TRD100523,ACC5390,2026-04-21,Trade settlement failure: SSI mismatch,Critical,Closed,Data Quality Issue,2026-04-28,2026-04-23
+ISS00525,AMLFlag,TXN208491,ACC5336,2026-04-21,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-05-05,2026-05-06
+ISS00526,AMLFlag,TXN208495,ACC5336,2026-04-21,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-05-05,2026-05-04
+ISS00527,AMLFlag,TXN208501,ACC5308,2026-04-22,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-05-13,2026-05-11
+ISS00528,AMLFlag,TXN208503,ACC5336,2026-04-23,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-05-07,2026-05-04
+ISS00529,AMLFlag,TXN208507,ACC5336,2026-04-24,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-05-08,2026-05-04
+ISS00530,AMLFlag,TXN208516,ACC5064,2026-04-24,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2026-05-15,2026-05-13
+ISS00531,TradeFailure,TRD101439,ACC5059,2026-04-27,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-05-18,2026-05-13
+ISS00532,AMLFlag,TXN208514,ACC5336,2026-04-27,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-05-11,2026-05-04
+ISS00533,TradeFailure,TRD105207,ACC5256,2026-04-30,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-05-21,2026-05-07
+ISS00534,TradeFailure,TRD107302,ACC5373,2026-05-08,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-05-29,2026-05-20
+ISS00535,AMLFlag,TXN208671,ACC5411,2026-05-11,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-06-01,2026-05-28
+ISS00536,TradeFailure,TRD101482,ACC5185,2026-05-12,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-06-09,2026-06-16
+ISS00537,TradeFailure,TRD103972,ACC5197,2026-05-14,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2026-06-11,2026-05-21
+ISS00538,TradeFailure,TRD106925,ACC5018,2026-05-14,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2026-06-04,2026-05-27
+ISS00539,TradeFailure,TRD101680,ACC5112,2026-05-15,Trade settlement failure: SSI mismatch,High,Closed,Data Quality Issue,2026-05-29,2026-05-28
+ISS00540,TradeFailure,TRD106246,ACC5126,2026-05-19,Trade settlement failure: Counterparty failed to deliver,High,Closed,Third-Party Failure,2026-06-02,2026-06-01
+ISS00541,TradeFailure,TRD109177,ACC5438,2026-05-19,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2026-06-16,2026-06-10
+ISS00542,AMLFlag,TXN208760,ACC5153,2026-05-20,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-06-10,2026-06-02
+ISS00543,TradeFailure,TRD100325,ACC5070,2026-05-21,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-06-11,2026-06-02
+ISS00544,TradeFailure,TRD109063,ACC5177,2026-05-21,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-06-11,2026-06-11
+ISS00545,AMLFlag,TXN208784,ACC5157,2026-05-22,Escalated AML alert: LargeTransaction;HighRiskJurisdiction,Critical,Closed,Multiple Rules,2026-05-29,2026-05-29
+ISS00546,TradeFailure,TRD101977,ACC5263,2026-05-26,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2026-06-16,2026-06-10
+ISS00547,AMLFlag,TXN208800,ACC5161,2026-05-26,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2026-06-16,2026-07-15
+ISS00548,AMLFlag,TXN208827,ACC5166,2026-05-27,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2026-06-17,2026-06-29
+ISS00549,AMLFlag,TXN208839,ACC5078,2026-05-27,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-06-17,2026-06-18
+ISS00550,TradeFailure,TRD101646,ACC5069,2026-05-28,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-06-25,2026-07-06
+ISS00551,AMLFlag,TXN208853,ACC5400,2026-05-29,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2026-06-19,2026-06-23
+ISS00552,TradeFailure,TRD104644,ACC5366,2026-06-02,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-06-23,2026-06-16
+ISS00553,AMLFlag,TXN208897,ACC5176,2026-06-02,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-06-16,2026-06-08
+ISS00554,AMLFlag,TXN208903,ACC5176,2026-06-02,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-06-16,2026-06-22
+ISS00555,TradeFailure,TRD105175,ACC5352,2026-06-03,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-06-24,2026-06-19
+ISS00556,TradeFailure,TRD107047,ACC5160,2026-06-04,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-07-02,2026-07-10
+ISS00557,AMLFlag,TXN208904,ACC5176,2026-06-04,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-06-18,2026-06-23
+ISS00558,TradeFailure,TRD102701,ACC5388,2026-06-05,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-06-26,2026-06-12
+ISS00559,AMLFlag,TXN208914,ACC5176,2026-06-05,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-06-19,2026-06-22
+ISS00560,AMLFlag,TXN208945,ACC5360,2026-06-08,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-06-29,2026-07-21
+ISS00561,TradeFailure,TRD104711,ACC5251,2026-06-09,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-06-30,2026-06-24
+ISS00562,TradeFailure,TRD106139,ACC5014,2026-06-09,Trade settlement failure: System outage,Low,Closed,System/Automation Gap,2026-07-07,2026-07-06
+ISS00563,TradeFailure,TRD109626,ACC5243,2026-06-10,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-07-01,2026-07-09
+ISS00564,TradeFailure,TRD109986,ACC5345,2026-06-10,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-07-01,2026-06-17
+ISS00565,AMLFlag,TXN208972,ACC5004,2026-06-10,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-07-01,2026-06-16
+ISS00566,AMLFlag,TXN209002,ACC5160,2026-06-12,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-06-26,2026-06-23
+ISS00567,TradeFailure,TRD109976,ACC5105,2026-06-16,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-07-14,2026-06-25
+ISS00568,AMLFlag,TXN209056,ACC5410,2026-06-16,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-07-07,2026-07-21
+ISS00569,AMLFlag,TXN209027,ACC5482,2026-06-17,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-07-08,2026-07-14
+ISS00570,AMLFlag,TXN209065,ACC5160,2026-06-17,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-07-01,2026-07-09
+ISS00571,AMLFlag,TXN209039,ACC5160,2026-06-18,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-07-02,2026-06-30
+ISS00572,TradeFailure,TRD100158,ACC5293,2026-06-19,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-07-10,2026-07-21
+ISS00573,TradeFailure,TRD105471,ACC5006,2026-06-22,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-07-13,2026-07-09
+ISS00574,AMLFlag,TXN209121,ACC5160,2026-06-24,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-07-15,2026-07-15
+ISS00575,AMLFlag,TXN209112,ACC5373,2026-06-25,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-07-16,2026-08-19
+ISS00576,AMLFlag,TXN209166,ACC5270,2026-06-26,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-07-10,2026-07-02
+ISS00577,TradeFailure,TRD106315,ACC5058,2026-06-29,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-07-20,2026-08-11
+ISS00578,AMLFlag,TXN209177,ACC5270,2026-06-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-07-14,2026-07-03
+ISS00579,AMLFlag,TXN209201,ACC5270,2026-06-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-07-14,2026-07-10
+ISS00580,AMLFlag,TXN209205,ACC5270,2026-06-30,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-07-14,2026-07-15
+ISS00581,TradeFailure,TRD102023,ACC5353,2026-07-01,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-07-29,2026-07-17
+ISS00582,TradeFailure,TRD101515,ACC5279,2026-07-08,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-08-05,2026-08-04
+ISS00583,TradeFailure,TRD104328,ACC5019,2026-07-09,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-07-30,2026-07-30
+ISS00584,TradeFailure,TRD107719,ACC5410,2026-07-10,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-08-07,2026-08-12
+ISS00585,TradeFailure,TRD106226,ACC5226,2026-07-13,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-08-10,2026-07-31
+ISS00586,TradeFailure,TRD106946,ACC5117,2026-07-15,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-08-12,2026-07-30
+ISS00587,AMLFlag,TXN209359,ACC5380,2026-07-17,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-08-07,2026-08-05
+ISS00588,TradeFailure,TRD106007,ACC5219,2026-07-20,Trade settlement failure: System outage,Medium,Closed,System/Automation Gap,2026-08-10,2026-08-03
+ISS00589,TradeFailure,TRD108097,ACC5098,2026-07-20,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2026-08-17,2026-08-11
+ISS00590,TradeFailure,TRD100499,ACC5429,2026-07-21,Trade settlement failure: Insufficient securities,High,Closed,Third-Party Failure,2026-08-04,2026-07-30
+ISS00591,TradeFailure,TRD108615,ACC5205,2026-07-21,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-08-11,2026-08-07
+ISS00592,TradeFailure,TRD108594,ACC5048,2026-07-22,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-08-12,2026-08-04
+ISS00593,TradeFailure,TRD102768,ACC5496,2026-07-23,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-08-13,2026-08-05
+ISS00594,TradeFailure,TRD104897,ACC5405,2026-07-23,Trade settlement failure: Late instruction,Low,Closed,Manual Process Error,2026-08-20,2026-08-05
+ISS00595,TradeFailure,TRD109182,ACC5116,2026-07-23,Trade settlement failure: SSI mismatch,Low,Closed,Data Quality Issue,2026-08-20,2026-08-17
+ISS00596,AMLFlag,TXN209519,ACC5139,2026-07-31,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-08-21,2026-08-11
+ISS00597,TradeFailure,TRD105847,ACC5203,2026-08-03,Trade settlement failure: Counterparty failed to deliver,Low,Closed,Third-Party Failure,2026-08-31,2026-08-28
+ISS00598,TradeFailure,TRD109401,ACC5445,2026-08-03,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-08-31,2026-09-10
+ISS00599,AMLFlag,TXN209566,ACC5195,2026-08-04,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2026-08-25,2026-09-11
+ISS00600,TradeFailure,TRD103949,ACC5406,2026-08-05,Trade settlement failure: Insufficient securities,Medium,Closed,Third-Party Failure,2026-08-26,2026-08-20
+ISS00601,TradeFailure,TRD108278,ACC5470,2026-08-06,Trade settlement failure: Insufficient securities,Medium,Escalated,Third-Party Failure,2026-08-27,
+ISS00602,TradeFailure,TRD101526,ACC5043,2026-08-07,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2026-08-28,2026-09-01
+ISS00603,TradeFailure,TRD108228,ACC5462,2026-08-07,Trade settlement failure: SSI mismatch,Critical,Closed,Data Quality Issue,2026-08-14,2026-08-13
+ISS00604,TradeFailure,TRD105039,ACC5174,2026-08-11,Trade settlement failure: SSI mismatch,Medium,Escalated,Data Quality Issue,2026-09-01,
+ISS00605,TradeFailure,TRD100880,ACC5410,2026-08-12,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-09-09,2026-08-26
+ISS00606,AMLFlag,TXN209620,ACC5048,2026-08-12,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-08-26,2026-08-24
+ISS00607,AMLFlag,TXN209644,ACC5048,2026-08-14,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-08-28,2026-08-25
+ISS00608,AMLFlag,TXN209668,ACC5048,2026-08-17,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-08-31,2026-08-21
+ISS00609,TradeFailure,TRD107027,ACC5050,2026-08-19,Trade settlement failure: Counterparty failed to deliver,Medium,Escalated,Third-Party Failure,2026-09-09,
+ISS00610,TradeFailure,TRD107256,ACC5414,2026-08-20,Trade settlement failure: Counterparty failed to deliver,Medium,Closed,Third-Party Failure,2026-09-10,2026-09-09
+ISS00611,AMLFlag,TXN209698,ACC5268,2026-08-20,Escalated AML alert: LargeTransaction,Medium,Closed,Unusual Transaction Size,2026-09-10,2026-09-14
+ISS00612,TradeFailure,TRD106951,ACC5137,2026-08-21,Trade settlement failure: Late instruction,Medium,Closed,Manual Process Error,2026-09-11,2026-09-15
+ISS00613,AMLFlag,TXN209734,ACC5064,2026-08-24,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-09-07,2026-08-27
+ISS00614,AMLFlag,TXN209746,ACC5064,2026-08-24,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-09-07,2026-09-14
+ISS00615,AMLFlag,TXN209750,ACC5064,2026-08-25,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-09-08,2026-09-01
+ISS00616,AMLFlag,TXN209795,ACC5189,2026-08-25,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-09-08,2026-09-14
+ISS00617,TradeFailure,TRD101420,ACC5375,2026-08-26,Trade settlement failure: Insufficient securities,Low,Closed,Third-Party Failure,2026-09-23,2026-09-07
+ISS00618,TradeFailure,TRD106529,ACC5315,2026-08-26,Trade settlement failure: Counterparty failed to deliver,Medium,Under Review,Third-Party Failure,2026-09-16,
+ISS00619,TradeFailure,TRD108730,ACC5181,2026-08-26,Trade settlement failure: SSI mismatch,Medium,Closed,Data Quality Issue,2026-09-16,2026-09-08
+ISS00620,AMLFlag,TXN209790,ACC5064,2026-08-26,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-09-09,2026-09-08
+ISS00621,TradeFailure,TRD108366,ACC5267,2026-08-28,Trade settlement failure: Insufficient securities,Low,Under Review,Third-Party Failure,2026-09-25,
+ISS00622,TradeFailure,TRD109884,ACC5365,2026-08-31,Trade settlement failure: Counterparty failed to deliver,Medium,Under Review,Third-Party Failure,2026-09-21,
+ISS00623,AMLFlag,TXN209818,ACC5189,2026-09-01,Escalated AML alert: StructuringPattern,High,Closed,Structuring Behaviour,2026-09-15,2026-09-10
+ISS00624,AMLFlag,TXN209820,ACC5211,2026-09-01,Escalated AML alert: HighRiskJurisdiction,Medium,Closed,Jurisdiction Risk,2026-09-22,2026-09-14
+ISS00625,AMLFlag,TXN209832,ACC5189,2026-09-01,Escalated AML alert: StructuringPattern,High,Under Review,Structuring Behaviour,2026-09-15,
+ISS00626,AMLFlag,TXN209834,ACC5189,2026-09-01,Escalated AML alert: StructuringPattern,High,Under Review,Structuring Behaviour,2026-09-15,
+ISS00627,TradeFailure,TRD102013,ACC5139,2026-09-02,Trade settlement failure: Counterparty failed to deliver,Medium,Under Review,Third-Party Failure,2026-09-23,
+ISS00628,TradeFailure,TRD108119,ACC5139,2026-09-03,Trade settlement failure: SSI mismatch,Medium,Under Review,Data Quality Issue,2026-09-24,
+ISS00629,TradeFailure,TRD103045,ACC5314,2026-09-07,Trade settlement failure: System outage,Medium,Under Review,System/Automation Gap,2026-09-28,
+ISS00630,TradeFailure,TRD103634,ACC5123,2026-09-08,Trade settlement failure: SSI mismatch,Low,Under Review,Data Quality Issue,2026-10-06,
+ISS00631,AMLFlag,TXN209914,ACC5179,2026-09-08,Escalated AML alert: HighRiskJurisdiction,Medium,Under Review,Jurisdiction Risk,2026-09-29,
+ISS00632,TradeFailure,TRD101908,ACC5436,2026-09-10,Trade settlement failure: SSI mismatch,Critical,Closed,Data Quality Issue,2026-09-17,2026-09-14
+ISS00633,TradeFailure,TRD104504,ACC5019,2026-09-14,Trade settlement failure: SSI mismatch,Medium,Open,Data Quality Issue,2026-10-05,
+ISS00634,TradeFailure,TRD103998,ACC5307,2026-09-15,Trade settlement failure: SSI mismatch,Low,Open,Data Quality Issue,2026-10-13,

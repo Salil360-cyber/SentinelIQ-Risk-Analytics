@@ -1,0 +1,45 @@
+{
+  "aml_alerts": 356,
+  "aml_alert_rate_pct": 3.56,
+  "aml_flags_not_reproduced_by_rules": 0,
+  "trade_failure_rate_pct": 4.34,
+  "late_settlement_pct": 10.18,
+  "issues_total": 634,
+  "issues_trade_failure": 434,
+  "issues_aml": 200,
+  "cross_domain_accounts": 54,
+  "closed_within_sla_pct": 69.6,
+  "partial_month": "2026-09",
+  "partial_month_issues": 12,
+  "full_months": 32,
+  "avg_issues_per_full_month": 19.4,
+  "backtest_months": [
+    "2026-06",
+    "2026-07",
+    "2026-08"
+  ],
+  "backtest_actual": [
+    29,
+    16,
+    26
+  ],
+  "backtest_predicted": [
+    22.7,
+    23.0,
+    23.2
+  ],
+  "backtest_mae": 5.34,
+  "naive_mean_mae": 6.67,
+  "trend_issues_per_month": 0.26,
+  "forecast_months": [
+    "2026-09",
+    "2026-10",
+    "2026-11"
+  ],
+  "forecast_issues": [
+    23.7,
+    24.0,
+    24.2
+  ],
+  "generated_at": "2026-11-02 04:56"
+}

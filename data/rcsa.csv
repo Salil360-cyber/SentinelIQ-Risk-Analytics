@@ -1,0 +1,41 @@
+AssessmentID,BusinessUnit,Quarter,RiskRating,ControlEffectivenessPct,FindingsCount
+RCSA0001,Trade Operations,2024-Q1,Moderate,85.3,3
+RCSA0002,Trade Operations,2024-Q2,Moderate,73.3,4
+RCSA0003,Trade Operations,2024-Q3,Moderate,81.3,3
+RCSA0004,Trade Operations,2024-Q4,Moderate,79.6,4
+RCSA0005,Trade Operations,2025-Q1,High,74.0,5
+RCSA0006,Trade Operations,2025-Q2,High,75.7,5
+RCSA0007,Trade Operations,2025-Q3,High,71.3,6
+RCSA0008,Trade Operations,2025-Q4,High,69.3,5
+RCSA0009,Trade Operations,2026-Q1,High,69.9,6
+RCSA0010,Trade Operations,2026-Q2,Moderate,77.8,4
+RCSA0011,AML & Transaction Monitoring,2024-Q1,Moderate,85.7,4
+RCSA0012,AML & Transaction Monitoring,2024-Q2,Low,86.7,2
+RCSA0013,AML & Transaction Monitoring,2024-Q3,Moderate,82.9,2
+RCSA0014,AML & Transaction Monitoring,2024-Q4,Moderate,81.1,3
+RCSA0015,AML & Transaction Monitoring,2025-Q1,Moderate,77.4,4
+RCSA0016,AML & Transaction Monitoring,2025-Q2,Moderate,84.3,2
+RCSA0017,AML & Transaction Monitoring,2025-Q3,Low,86.5,2
+RCSA0018,AML & Transaction Monitoring,2025-Q4,Moderate,81.1,3
+RCSA0019,AML & Transaction Monitoring,2026-Q1,Moderate,77.2,4
+RCSA0020,AML & Transaction Monitoring,2026-Q2,High,67.7,7
+RCSA0021,Client Onboarding,2024-Q1,Low,96.6,0
+RCSA0022,Client Onboarding,2024-Q2,Low,94.1,1
+RCSA0023,Client Onboarding,2024-Q3,Low,93.5,2
+RCSA0024,Client Onboarding,2024-Q4,Low,92.1,1
+RCSA0025,Client Onboarding,2025-Q1,Moderate,80.0,4
+RCSA0026,Client Onboarding,2025-Q2,Low,93.3,1
+RCSA0027,Client Onboarding,2025-Q3,Moderate,81.1,4
+RCSA0028,Client Onboarding,2025-Q4,Low,91.5,2
+RCSA0029,Client Onboarding,2026-Q1,Moderate,81.0,4
+RCSA0030,Client Onboarding,2026-Q2,Low,86.9,2
+RCSA0031,Settlement & Custody,2024-Q1,Moderate,86.5,3
+RCSA0032,Settlement & Custody,2024-Q2,Low,88.2,2
+RCSA0033,Settlement & Custody,2024-Q3,Low,86.7,2
+RCSA0034,Settlement & Custody,2024-Q4,Moderate,86.3,3
+RCSA0035,Settlement & Custody,2025-Q1,Moderate,81.1,3
+RCSA0036,Settlement & Custody,2025-Q2,Moderate,78.4,4
+RCSA0037,Settlement & Custody,2025-Q3,High,77.7,5
+RCSA0038,Settlement & Custody,2025-Q4,Moderate,84.5,3
+RCSA0039,Settlement & Custody,2026-Q1,Moderate,83.8,3
+RCSA0040,Settlement & Custody,2026-Q2,Moderate,88.5,3
